@@ -1,5 +1,5 @@
 # PySparkETL-Pipeline
-This repository showcases an ETL pipeline created with Apache Spark which manages JSON files. 
+This repository showcases an ETL pipeline created with Apache Spark which joins multiple JSON files. 
 
 https://github.com/emresahinuk/PySparkETL-Pipeline/blob/main/Spark%20Merge.ipynb
 
