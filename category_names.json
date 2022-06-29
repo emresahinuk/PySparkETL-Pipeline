@@ -1,0 +1,12 @@
+[
+  {"category_id" : "249", "category": "\"Other (none of the above)\""},
+  {"category_id" :"63", "category":"\"Billing\""},
+  {"category_id" :"67", "category":"\"Handset\""},
+  {"category_id" :"72", "category":"\"Your plan\""},
+  {"category_id" :"71", "category":"\"Customer services\""},
+  {"category_id" :"69", "category":"\"Network coverage\""},
+  {"category_id" :"68", "category":"\"International roaming\""},
+  {"category_id" :"770", "category":"\"Purchases\""},
+  {"category_id" :"70", "category":"\"Expectations not being met\""},
+  {"category_id" :"65", "category":"\"Fraud\""}
+]
